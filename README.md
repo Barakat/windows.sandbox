@@ -1,1 +1,1 @@
-Simple windows sandbox based on reduced tokens, integrity levels, desktop isolation and job limitation.
+Simple windows sandbox based on restricted tokens, integrity levels, desktop isolation and job limitation.
